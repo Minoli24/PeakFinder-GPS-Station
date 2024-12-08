@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <img src="C:\Users\mino\Desktop\GPS Station\Hiking-GPS-Station-main\assets" alt="PeakFinder Admin" width="200"></a>
+  <img src="GPS Station\Hiking-GPS-Station-main\assets" alt="PeakFinder Admin" width="200"></a>
   <br>
  PeakFinder GPS-Station 
   <br>
